@@ -150,6 +150,7 @@ namespace TestForAssessment1
         static void Calculator()
         {
             Console.WriteLine("Did the push work?");
+            Console.WriteLine("Test 3");
         }
     }
 }
