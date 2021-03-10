@@ -151,6 +151,7 @@ namespace TestForAssessment1
         {
             Console.WriteLine("Did the push work?");
             Console.WriteLine("Test 3");
+            Console.WriteLine("Test 4");
         }
     }
 }
